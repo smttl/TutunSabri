@@ -35,8 +35,6 @@ Bu komutla girdiğiniz metin ses dosyasına çevrilip size gönderilir. 46'dan f
 ### /yht
 Bu komutu girdiğinizde size Kalkış istasyonu, Varış istasyonu, tarih ve zaman gibi parametreler sorulur. Bu sorgu sırasında işlemi iptal etmek için 'cancel' yazabilirsiniz. Bunları girdikten sonra TCDD YHT bileti için arama yapılmaya başlanır. Bu aşamada kritik detay durak isimlerini TCDD web sitesinde geçtiği gibi girmenizdir. Eğer boş koltuk sayısı değişirse size bir mesaj gönderilir. Aramayı sonlandırmak için __/yhtcancel__ komutunu kullanınız.
 
-### /spor
-Bu komutu girdiğinizde eğer daha önce giriş yapmadıysanız size bir kullanıcı adı ve şifre sorulur. Bu sorgu sırasında işlemi iptal etmek için 'cancel' yazabilirsiniz. Bu bilgileri girdikten sonra sizden bir seans saati girmeniz istenir. Bu bilgileri girdikten sonra ODTÜKENT spor merkezinde o seansta bulunan kontenjan değişikliklerini size bildirir. Aramayı sonlandırmak için __/sporcancel__ komutunu kullanınız. 
 
 ### /pedro
 PEDRO
